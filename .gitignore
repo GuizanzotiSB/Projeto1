@@ -1,0 +1,15 @@
+# Pastas de cache e ambientes do Python
+__pycache__/
+venv/
+.venv/
+
+# Arquivos de sistema operacional (Mac e Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorar checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos de rascunho (Opcional, mas recomendado)
+Untitled*.ipynb
+teste*.ipynb
