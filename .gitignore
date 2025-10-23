@@ -12,3 +12,5 @@ Thumbs.db
 
 # Ignorar arquivos de rascunho (Opcional, mas recomendado)
 Untitled*.ipynb
+
+.env
